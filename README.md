@@ -7,7 +7,6 @@
 在 MATLAB 命令行中输入以下命令启动 Waypoint Follower 模型：
 
 ```
-matlab
 parrotMinidroneWaypointFollowerStart
 ```
 
