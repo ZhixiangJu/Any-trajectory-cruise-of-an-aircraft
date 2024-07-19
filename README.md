@@ -1,4 +1,4 @@
-<img width="546" alt="截屏2024-07-19 16 50 00_副本" src="https://github.com/user-attachments/assets/92b76ab6-f820-4613-8d53-d7d959971ba4">命令行输入parrotMinidroneWaypointFollowerStart
+命令行输入parrotMinidroneWaypointFollowerStart
 点击flight control system模块
 点击path planning
 点击waypoint follower
