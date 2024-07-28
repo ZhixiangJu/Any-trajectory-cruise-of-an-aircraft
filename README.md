@@ -17,3 +17,6 @@ parrotMinidroneWaypointFollowerStart
 ## 步骤3:点击waypoints，按照规范输入目标路径
 
 <img width="717" alt="截屏2024-07-19 17 03 45" src="https://github.com/user-attachments/assets/b60f65b9-7ae9-4eba-80cf-63460bcb1fc1">
+
+## 关于asbTrajectoryTool
+没什么效果，没有找到信号接口，所以目前还是采用上面的办法
